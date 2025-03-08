@@ -24,13 +24,14 @@ export function Skills() {
     };
   }, []);
 
-
-
-
-
-
-
-  
+  const skills = [
+    { name: "HTML", percentage: 95 },
+    { name: "CSS", percentage: 90 },
+    { name: "JavaScript", percentage: 85 },
+    { name: "React", percentage: 90 },
+    { name: "UI/UX", percentage: 80 },
+    { name: "WordPress", percentage: 75 }
+  ];
 
   return (
     <section id="skills" className="py-24 relative">
@@ -39,9 +40,9 @@ export function Skills() {
       
       <div className="container relative z-10">
         <div className="text-center mb-16">
-          <h2 className="section-title mx-auto">My Skills</h2>
+          <h2 className="section-title mx-auto">Мои скиллы</h2>
           <p className="text-foreground/70 mt-4 max-w-2xl mx-auto">
-            I've spent years refining my skills across various technologies and design disciplines. Here's a glimpse at my technical proficiency.
+            Помимо дизайна также активно увлекаюсь fronted и backend разработкой
           </p>
         </div>
         
