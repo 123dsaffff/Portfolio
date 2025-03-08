@@ -26,7 +26,7 @@ export function Experience() {
 
   const experiences = [
     {
-      year: "2020 - Present",
+      year: "202 - Present",
       title: "Lead Developer",
       company: "Artistry Digital",
       description: "Leading development teams and managing complex web projects for enterprise clients."
