@@ -36,16 +36,16 @@ export function Works() {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Dashboard",
-      description: "A complete admin dashboard for managing online stores with analytics.",
+      title: "Футбольный клуб",
+      description: "Веб-платформа для клуба 'KOKOC'",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=600&h=400&q=80",
       category: "web",
       link: "#"
     },
     {
       id: 2,
-      title: "Travel Experience App",
-      description: "Mobile app for booking unique travel experiences and adventures.",
+      title: "Приложение для банка ВТБ",
+      description: "Мобильное приложение для обмена криптовалют напрямую между банком и пользователем",
       image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&h=400&q=80",
       category: "app",
       link: "#"
@@ -60,8 +60,8 @@ export function Works() {
     },
     {
       id: 4,
-      title: "Financial Analytics Platform",
-      description: "Data visualization dashboard for financial market analysis.",
+      title: "5html VK Games",
+      description: "Раздел с играми от ВК",
       image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&h=400&q=80",
       category: "web",
       link: "#"
