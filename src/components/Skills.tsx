@@ -24,14 +24,13 @@ export function Skills() {
     };
   }, []);
 
-  const skills = [
-    { name: "HTML", percentage: 95 },
-    { name: "CSS", percentage: 90 },
-    { name: "JavaScript", percentage: 85 },
-    { name: "React", percentage: 90 },
-    { name: "UI/UX", percentage: 80 },
-    { name: "WordPress", percentage: 75 }
-  ];
+
+
+
+
+
+
+  
 
   return (
     <section id="skills" className="py-24 relative">
