@@ -36,17 +36,3 @@ export function Skills() {
           <h2 className="section-title mx-auto">Скиллы</h2>
         </div>
 
-        
-          {['Figma', 'Photoshop', 'VS Code', 'Git', 'Node.js', 'Tailwind CSS'].map((tool, index) => (
-            <div 
-              key={tool} 
-              className="glassmorphism px-5 py-3 rounded-full text-sm font-medium"
-            >
-              {tool}
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
