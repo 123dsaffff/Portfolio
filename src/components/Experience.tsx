@@ -87,7 +87,7 @@ export function Experience() {
             "transition-all duration-700 transform",
             isInView ? "translate-x-0 opacity-100" : "-translate-x-10 opacity-0"
           )}>
-            <h2 className="section-title">My Experience</h2>
+            <h2 className="section-title">Мой опыт</h2>
             
             <div className="mt-10 space-y-8 relative">
               {/* Vertical timeline line */}
@@ -122,7 +122,7 @@ export function Experience() {
             "transition-all duration-700 transform",
             isInView ? "translate-x-0 opacity-100" : "translate-x-10 opacity-0"
           )}>
-            <h2 className="section-title">My Education</h2>
+            <h2 className="section-title">Мои проекты</h2>
             
             <div className="mt-10 space-y-8 relative">
               {/* Vertical timeline line */}
