@@ -62,7 +62,7 @@ export function Works() {
       id: 4,
       title: "5HTML VK Games",
       description: "Раздел с играми от ВК",
-      image: "Главная.png",
+      image: "Portfolio/src/components/vk.png",
       category: "web",
       link: "https://www.behance.net/"
     }
