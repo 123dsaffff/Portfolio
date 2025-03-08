@@ -54,7 +54,7 @@ export function Works() {
       id: 3,
       title: "Modern Agency Rebrand",
       description: "Complete brand identity redesign for a digital marketing agency.",
-      image: "https://imgur.com/a/9S1waAm",
+      image: "public/Главная.png",
       category: "branding",
       link: "https://www.behance.net/"
     },
