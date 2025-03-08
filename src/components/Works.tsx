@@ -27,7 +27,7 @@ export function Works() {
   }, []);
 
   const filters = [
-    { id: 'all', label: 'All' },
+    { id: 'all', label: 'Все' },
     { id: 'web', label: 'Web' },
     { id: 'app', label: 'App' },
     { id: 'branding', label: 'Branding' }
@@ -80,10 +80,7 @@ export function Works() {
       
       <div className="container relative z-10">
         <div className="text-center mb-12">
-          <h2 className="section-title mx-auto">My Recent Works</h2>
-          <p className="text-foreground/70 mt-4 max-w-2xl mx-auto">
-            Explore my latest projects and creative work. Each project is crafted with attention to detail and focus on user experience.
-          </p>
+          <h2 className="section-title mx-auto">Портфолио</h2>
         </div>
         
         {/* Filter buttons */}
