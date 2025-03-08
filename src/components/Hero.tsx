@@ -72,7 +72,7 @@ export function Hero() {
             </h1>
             
             <p className="text-lg text-foreground/80 max-w-lg">
-              Creating clean, modern designs and intuitive user experiences. Building beautiful, functional websites that help businesses grow and succeed.
+              Опытный UX/UI дизайнер с более чем 3-летним стажем работы в создании интуитивно понятных и привлекательных интерфейсов. Обладаю глубокими знаниями в области пользовательского опыта, прототипирования и визуального дизайна. Успешно работал над проектами для различных отраслей
             </p>
             
             <div className="flex flex-wrap gap-3 mt-2">
@@ -93,7 +93,7 @@ export function Hero() {
                 href="#contact" 
                 className="btn btn-primary px-5 py-2.5 rounded-md group"
               >
-                <span>Contact Me</span>
+                <span>Связаться</span>
                 <ArrowRight size={16} className="ml-2 group-hover:translate-x-1 transition-transform" />
               </a>
               
@@ -101,7 +101,7 @@ export function Hero() {
                 href="#works" 
                 className="btn px-5 py-2.5 border border-border bg-secondary/50 text-foreground hover:bg-secondary transition-colors rounded-md"
               >
-                View Portfolio
+                Портфолио
               </a>
             </div>
           </div>
