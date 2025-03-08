@@ -86,6 +86,7 @@ export function Works() {
         {/* Filter buttons */}
         <div className="flex flex-wrap justify-center gap-3 mb-12">
           {filters.map((filter) => (
+            <img>src/components/vk.png</img>
             <button
               key={filter.id}
               onClick={() => setActiveFilter(filter.id)}
