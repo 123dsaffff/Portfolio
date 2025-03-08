@@ -19,12 +19,12 @@ export function Header() {
   }, []);
 
   const navLinks = [
-    { name: 'Home', href: '#home' },
-    { name: 'About', href: '#about' },
-    { name: 'Services', href: '#services' },
-    { name: 'Works', href: '#works' },
-    { name: 'Experience', href: '#experience' },
-    { name: 'Contact', href: '#contact' }
+    { name: 'Главная', href: '#home' },
+    { name: 'Обо мне', href: '#about' },
+    { name: 'Кем являюсь', href: '#services' },
+    { name: 'Портфолио', href: '#works' },
+    { name: 'Опыт', href: '#experience' },
+    { name: 'Контакты', href: '#contact' }
   ];
 
   return (
