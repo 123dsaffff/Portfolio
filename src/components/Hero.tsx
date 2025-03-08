@@ -8,7 +8,7 @@ export function Hero() {
   
   // Profession text animation
   const [professionIndex, setProfessionIndex] = useState(0);
-  const professions = ["UX", "UI", "UX"];
+  const professions = ["UX", "UI"];
   
   useEffect(() => {
     setIsLoaded(true);
