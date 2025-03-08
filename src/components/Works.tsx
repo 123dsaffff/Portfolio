@@ -64,7 +64,7 @@ export function Works() {
       description: "Раздел с играми от ВК",
       image: "Главная.png",
       category: "web",
-      link: "https://www.behance.net/"
+      link: "https://www.behance.net/gallery/220977347/5HTML-VK-Games"
     }
   ];
 
