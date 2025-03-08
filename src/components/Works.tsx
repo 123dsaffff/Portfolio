@@ -28,9 +28,9 @@ export function Works() {
 
   const filters = [
     { id: 'all', label: 'Все' },
-    { id: 'web', label: 'Web' },
-    { id: 'app', label: 'App' },
-    { id: 'branding', label: 'Branding' }
+    { id: 'web', label: 'Веб' },
+    { id: 'app', label: 'Приложения' },
+    { id: 'branding', label: 'Брендинг' }
   ];
 
   const projects = [
