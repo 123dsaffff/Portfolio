@@ -29,10 +29,8 @@ export function Hero() {
 
   // Stats
   const stats = [
-    { value: "14", label: "Years Experience" },
-    { value: "50+", label: "Projects Completed" },
-    { value: "1.5K", label: "Happy Clients" },
-    { value: "14", label: "Awards" }
+    { value: "3", label: "Года опыта" },
+    { value: "10+", label: "Проектов" },
   ];
 
   return (
