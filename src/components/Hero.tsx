@@ -8,7 +8,7 @@ export function Hero() {
   
   // Profession text animation
   const [professionIndex, setProfessionIndex] = useState(0);
-  const professions = ["UX", "UI", "Designer"];
+  const professions = ["UX", "UI", ""];
   
   useEffect(() => {
     setIsLoaded(true);
@@ -58,7 +58,7 @@ export function Hero() {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">
-              <span className="block">UX +</span>
+              <span className="block">Designer +</span>
               <span className="text-primary block mt-1 relative h-[60px] overflow-hidden">
                 {professions.map((profession, index) => (
                   <span key={profession} className={cn(
