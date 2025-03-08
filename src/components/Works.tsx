@@ -112,7 +112,14 @@ export function Works() {
               )}
               style={{ transitionDelay: `${index * 100}ms` }}
             >
-              
+              <div className="aspect-video overflow-hidden">
+                <img 
+                  src={project.image} 
+                  alt={project.title}
+                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  loading="lazy"
+                />
+              </div>
               
               <div className="p-6">
                 <div className="flex justify-between items-start">
