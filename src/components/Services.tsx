@@ -8,7 +8,7 @@ export function Services() {
     {
       id: "branding",
       icon: PencilRuler,
-      title: "Branding Design",
+      title: "Брендинг дизайн",
       description: "Create cohesive brand identities that resonate with your audience and stand out in the market. From logos to style guides, I build complete brand systems.",
       details: [
         "Logo Design & Identity",
@@ -65,10 +65,9 @@ export function Services() {
       
       <div className="container relative z-10">
         <div className="text-center mb-16">
-          <h2 className="section-title mx-auto">My Quality Services</h2>
+          <h2 className="section-title mx-auto">Что создаю</h2>
           <p className="text-foreground/70 mt-4 max-w-2xl mx-auto">
-            High-quality services tailored to your needs. I am committed to delivering exceptional results that exceed expectations and help achieve your goals.
-          </p>
+Высококачественные услуги, адаптированные к вашим потребностям. Я стремлюсь предоставлять лучшие результаты, которые превосходят ожидания и помогают достичь ваших целей.          </p>
         </div>
         
         <div className="grid md:grid-cols-2 gap-6 lg:gap-10">
