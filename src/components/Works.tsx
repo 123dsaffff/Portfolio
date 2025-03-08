@@ -60,7 +60,7 @@ export function Works() {
     },
     {
       id: 4,
-      title: "5html VK Games",
+      title: "5HTML VK Games",
       description: "Раздел с играми от ВК",
       image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&h=400&q=80",
       category: "web",
