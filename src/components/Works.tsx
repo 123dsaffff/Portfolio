@@ -40,7 +40,7 @@ export function Works() {
       description: "Веб-платформа для клуба 'KOKOC'",
       image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=600&h=400&q=80",
       category: "web",
-      link: "#"
+      link: "https://www.behance.net/"
     },
     {
       id: 2,
@@ -48,7 +48,7 @@ export function Works() {
       description: "Мобильное приложение для обмена криптовалют напрямую между банком и пользователем",
       image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&h=400&q=80",
       category: "app",
-      link: "#"
+      link: "https://www.behance.net/"
     },
     {
       id: 3,
@@ -56,7 +56,7 @@ export function Works() {
       description: "Complete brand identity redesign for a digital marketing agency.",
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=600&h=400&q=80",
       category: "branding",
-      link: "#"
+      link: "https://www.behance.net/"
     },
     {
       id: 4,
@@ -64,7 +64,7 @@ export function Works() {
       description: "Раздел с играми от ВК",
       image: "Главная.png",
       category: "web",
-      link: "#"
+      link: "https://www.behance.net/"
     }
   ];
 
