@@ -149,7 +149,7 @@ export function Works() {
         
         <div className="text-center mt-12">
           <a href="#" className="btn btn-secondary px-6 py-2.5">
-            View All Projects
+            Смотреть все проекты
           </a>
         </div>
       </div>
