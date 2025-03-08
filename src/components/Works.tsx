@@ -46,7 +46,7 @@ export function Works() {
       id: 2,
       title: "Приложение для банка ВТБ",
       description: "Мобильное приложение для обмена криптовалют напрямую между банком и пользователем",
-      image: "https://yapx.ru/album/YiqGC",
+      image: "https://demo-source.imgix.net/bucket_hat.jpg",
       category: "app",
       link: "https://www.behance.net/"
     },
